@@ -6,6 +6,13 @@
 
 /* Global Styles */
 
+@font-face {
+    font-family: 'NotoSansLisu-Regular';
+    src: url('http://fonts.lwinmoe.org/NotoSansLisu-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html,
 body {
     width: 100%;
@@ -13,7 +20,7 @@ body {
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "NotoSansLisu-Regular","Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .text-vertical-center {
