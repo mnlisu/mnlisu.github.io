@@ -1,6 +1,7 @@
 # Minnesota Lisu Church of Jesus Website
 
 ## This is the source code repo for Minnesota Lisu Church of Jesus website.
+[http://mnlisu.github.io](http://mnlisu.github.io)
 
 ## Copyright and License
 
